@@ -1,6 +1,6 @@
 # GitHub Explorer
 
-![Project](https://github.com/nathaliaspinula/github-explorer-frontend/tree/master/src/assets/project.png)
+![Project](https://github.com/nathaliaspinula/github-explorer-frontend/tree/master/src/assets/project.png?raw=true)
 
 ## ⌨ Technologies
 - React.js
