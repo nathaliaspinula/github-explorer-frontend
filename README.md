@@ -1,5 +1,7 @@
 # GitHub Explorer
 
+![Project](https://github.com/nathaliaspinula/github-explorer-frontend/tree/master/src/assets/project.png)
+
 ## ⌨ Technologies
 - React.js
 - Typescript
